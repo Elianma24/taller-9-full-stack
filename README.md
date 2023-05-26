@@ -19,3 +19,11 @@ alt="html">
 <h2> Punto 3: Css</h2>
 <img src="./Public/Images/Css.png"
 alt="css">
+
+<h2> Punto 4: Titulos</h2>
+<img src="./Public/Images/Punto-4.png"
+alt="Text">
+
+<h2> Punto 5: Estilos de texto</h2>
+<img src="./Public/Images/Punto-5.png"
+alt="Text">
