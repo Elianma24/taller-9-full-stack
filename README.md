@@ -12,3 +12,7 @@ design&node-id=0-1&t=zA0AKLTV1LSnfdu7-0">Link de Figma </a>
 <h2> Punto 2: Html</h2>
 <img src="./Public/Images/Html.png"
 alt="html">
+
+<h2> Punto 3: Css</h2>
+<img src="./Public/Images/Css.png"
+alt="css">
