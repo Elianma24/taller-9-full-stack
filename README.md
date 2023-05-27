@@ -10,7 +10,7 @@
 design&node-id=0-1&t=zA0AKLTV1LSnfdu7-0">Link de Figma </a>
 
 <br>
-<a href="https://elianma24.github.io/taller-9-full-stack/punto-1-3/index.html"> </a>
+<a href="https://elianma24.github.io/taller-9-full-stack/punto-1-3/index.html"> Link Git Hub</a>
 
 <h2> Punto 2: Html</h2>
 <img src="./Public/Images/Html.png"
@@ -26,4 +26,16 @@ alt="Text">
 
 <h2> Punto 5: Estilos de texto</h2>
 <img src="./Public/Images/Punto-5.png"
+alt="Text">
+
+<h2> Punto 6: Enlaces</h2>
+<img src="./Public/Images/Punto-6.png"
+alt="Text">
+
+<h2> Punto 7-8: Navegación</h2>
+<img src="./Public/Images/Punto-7-8.png"
+alt="Text">
+
+<h2> Punto 9: Tablas</h2>
+<img src="./Public/Images/Punto-9.png"
 alt="Text">

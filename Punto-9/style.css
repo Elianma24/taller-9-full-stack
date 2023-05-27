@@ -1,0 +1,15 @@
+table,th,td {
+    margin: 20px;
+    background-color: yellow;
+    border: black 2px dotted;
+    border-collapse: collapse;
+}
+
+.border_button {
+    border-bottom: 2px red dashed;
+}
+
+.center {
+    text-align: center;
+    font-style: oblique;
+}
