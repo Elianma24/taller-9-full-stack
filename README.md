@@ -10,7 +10,7 @@
 design&node-id=0-1&t=zA0AKLTV1LSnfdu7-0">Link de Figma </a>
 
 <br>
-<a href="https://elianma24.github.io/taller-9-full-stack/punto-1-3/index.html"> Link Git Hub</a>
+<a href="https://elianma24.github.io/taller-9-full-stack/"> Link Git Hub</a>
 
 <h2> Punto 2: Html</h2>
 <img src="./Public/Images/Html.png"
